@@ -1,0 +1,107 @@
+/* barra menu */
+menu {
+	padding: 2;
+	background: none;
+	font-style: bold;
+	font-face: proportional;
+	font-color: lime;
+	menubar-color: black;
+}
+
+/* barra titulo */
+title {
+	padding: 2;
+	margin-top: 0;
+	margin-bottom: 5;
+	margin-left: 0;
+	margin-right: 0;
+	font-bitmap: font20_green;
+	background:none;
+	border: none;
+	layout: horizontal-center | horizontal-expand;
+}
+
+/* elemento seleccionado */
+focused {
+	background-color: white;
+	border-type: round-rect;
+	border-arc: 6;
+	border-color: lime;
+	border-width: 2;
+	font-bitmap: font17_green;	
+}
+
+/* menu principal */
+.mainScreen {
+	padding: 2;
+	padding-left: 10;
+	padding-right: 10;
+	padding-top: 10;
+	background {
+		type: image;
+		image: url( bg_menu.png );
+		anchor: top | left;
+	}
+	layout: horizontal-expand | horizontal-center;
+	columns: 2;
+	columns-width: equal;
+	show-text-in-title: true;
+}
+
+/* pagina secundaria */
+.secondScreen {
+	padding: 2;
+	padding-left: 20;
+	padding-right: 20;
+	padding-top: 20;
+	font-bitmap: font;
+	background {
+		type: image;
+		image: url( bg_menu.png );
+		anchor: top | left;
+	}
+	layout: horizontal-expand | horizontal-center;
+	show-text-in-title: true;
+}
+
+/* iconos del menu principal */
+.mainCommand{
+	margin: 2; 
+	padding: 2;
+	background: none;
+	font{
+		color: blue;
+		style: bold;
+		size: small;
+		bitmap: font;
+	}
+	layout: center;
+	icon-image: url( icon%INDEX%.png );
+	icon-image-align: top;
+}
+
+/* estilo choice group */
+.choiceStyle{
+	font-bitmap: font17_cream;
+}
+
+/* estilo string */
+.textStyle{
+	font-bitmap: font17_cream;
+}
+
+/* estilo gauge */
+.gaugeStyle {
+	padding: 2;
+	gauge{
+		color: black;
+		width: 165;
+		height: 20;
+		gap-color: lime;
+		gap-width: 2;
+		show-value: no;
+		value-align: left;
+		mode: chunked;
+		chunk-width: 15;
+	}
+}

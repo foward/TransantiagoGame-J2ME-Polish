@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/INF323_03/!svn/ver/10/TransGame%20Polish/TransGame/build/real/Nokia/5300/es_ES/classes/de/enough/polish/browser/protocols
+END
+HttpProtocolHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/INF323_03/!svn/ver/10/TransGame%20Polish/TransGame/build/real/Nokia/5300/es_ES/classes/de/enough/polish/browser/protocols/HttpProtocolHandler.class
+END
+ExternalProtocolHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/INF323_03/!svn/ver/10/TransGame%20Polish/TransGame/build/real/Nokia/5300/es_ES/classes/de/enough/polish/browser/protocols/ExternalProtocolHandler.class
+END
+TelProtocolHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/INF323_03/!svn/ver/10/TransGame%20Polish/TransGame/build/real/Nokia/5300/es_ES/classes/de/enough/polish/browser/protocols/TelProtocolHandler.class
+END
+ResourceConnection.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/INF323_03/!svn/ver/10/TransGame%20Polish/TransGame/build/real/Nokia/5300/es_ES/classes/de/enough/polish/browser/protocols/ResourceConnection.class
+END
+ResourceProtocolHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/INF323_03/!svn/ver/10/TransGame%20Polish/TransGame/build/real/Nokia/5300/es_ES/classes/de/enough/polish/browser/protocols/ResourceProtocolHandler.class
+END

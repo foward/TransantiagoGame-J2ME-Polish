@@ -1,0 +1,11 @@
+MIDlet-Name: Transchantiago
+MIDlet-Version: 0.9
+MIDlet-Vendor: 4Minds Software Ltda.
+MIDlet-Jar-URL: Transchantiago-Nokia-5300.jar
+MIDlet-Jar-Size: 347673
+MIDlet-Description: Transchantiago nunca fue tan rapido.
+MIDlet-Icon: /dot.png
+MIDlet-Info-URL: http://www.4minds.cl
+MIDlet-1: Transchantiago,/dot.png,cl.utfsm.transchantiago.MidletTrans
+MIDlet-Delete-Confirm: Do you really want to delete me?
+Nokia-MIDlet-Category: Game

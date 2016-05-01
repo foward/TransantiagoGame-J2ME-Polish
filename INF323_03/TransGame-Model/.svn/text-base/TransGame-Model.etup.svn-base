@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMI xmlns:UML="omg.org/UML/1.4" xmi.version="2.0">
+   <XMI.header>
+      <XMI.metamodel xmi.name="UML" xmi.version="1.4"/>
+		<XMI.documentation>
+			<XMI.exporter>
+				Embarcadero's Describe
+			</XMI.exporter>
+			<XMI.exporterVersion>
+				6.0
+			</XMI.exporterVersion>
+		</XMI.documentation>
+   </XMI.header>
+
+   <XMI.content>
+   <UML:Profile xmi.id="DCE.DC1325F0-79B9-51C3-9F0F-F7062EFB6C7B" name="Unnamed" isCloned="true" href=".\TransGame-Model.etup#//*[@xmi.id=&apos;DCE.DC1325F0-79B9-51C3-9F0F-F7062EFB6C7B&apos;]" isDirty="false"><UML:Element.ownedElement>
+<UML:Stereotype xmi.id="DCE.B11D1F04-36CD-557E-C94A-A6F13AD68038" name="interface" owner="__uri_.\TransGame-Model.etup#//*[@xmi.id=&apos;DCE.DC1325F0-79B9-51C3-9F0F-F7062EFB6C7B&apos;]"/></UML:Element.ownedElement></UML:Profile></XMI.content>
+</XMI>

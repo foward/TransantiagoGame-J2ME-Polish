@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+MIDlet-Name: Transchantiago
+MIDlet-Version: 0.9
+MIDlet-Vendor: 4Minds Software Ltda.
+MIDlet-Description: Transchantiago nunca fue tan rapido.
+MIDlet-Icon: /dot.png
+MIDlet-Info-URL: http://www.4minds.cl
+MIDlet-1: Transchantiago,/dot.png,cl.utfsm.transchantiago.MidletTrans
+MIDlet-Delete-Confirm: Do you really want to delete me?
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+Nokia-MIDlet-Category: Game
+Polish-Version: 2.0.4 (2008-06-30)
